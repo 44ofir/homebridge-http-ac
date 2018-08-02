@@ -1,6 +1,6 @@
 ﻿{
-  "name": "homebridge-http-ac",
-  "version": "1.0.0",
+  "name": "homebridge-http-acunit",
+  "version": "0.0.1",
   "description": "HTTP AC",
   "main": "index.js",
   "repository": {
@@ -13,13 +13,12 @@
   "author": "Ofir",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/44ofir/homebridge-http-ac/issues"
   },
   "engines": {
     "node": ">=4.0.0",
     "homebridge": ">=0.4.22"
   },
   "dependencies": {
-  },
-  "homepage": ""
+  }
 }
