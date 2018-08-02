@@ -1,0 +1,25 @@
+﻿{
+  "name": "homebridge-http-ac",
+  "version": "1.0.0",
+  "description": "HTTP AC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/44ofir/homebridge-http-ac.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Ofir",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">=4.0.0",
+    "homebridge": ">=0.4.22"
+  },
+  "dependencies": {
+  },
+  "homepage": ""
+}
